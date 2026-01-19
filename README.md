@@ -1,16 +1,35 @@
-# React + Vite
+# Mini E-Commerce Storefront
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This project is a mini e-commerce storefront built as **Internship Task 2**.  
+It allows users to browse products, add them to cart, and simulate checkout.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🚀 Tech Stack
+- React.js (Vite)
+- Tailwind CSS
+- Context API (State Management)
+- FakeStoreAPI (Product Data)
 
-## React Compiler
+---
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## ✨ Features
+- Product listing with images, price, and title
+- Search and filter products
+- Add to cart / remove from cart
+- Quantity control in cart
+- Cart total calculation
+- Checkout simulation with form validation
+- Responsive UI
 
-## Expanding the ESLint configuration
+---
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 🔗 Live Demo
+(Add Netlify / Vercel link here)
+
+---
+
+## 🛠 How to Run Locally
+```bash
+npm install
+npm run dev
