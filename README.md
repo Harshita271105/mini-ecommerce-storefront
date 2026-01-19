@@ -25,7 +25,7 @@ It allows users to browse products, add them to cart, and simulate checkout.
 ---
 
 ## 🔗 Live Demo
-(Add Netlify / Vercel link here)
+https://harshita-shopease.netlify.app/
 
 ---
 
